@@ -1,7 +1,10 @@
-text{  
-    font-size: 100px;
- }
-body{
-    margin:0;
-    background:crimson;
-    }
+body {
+  background-image: url('cipari.jpg');
+}
+h2 {
+    align-content: center
+        
+}
+div{
+    background-color: yellow
+}
